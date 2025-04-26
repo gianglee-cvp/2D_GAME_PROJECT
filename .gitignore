@@ -1,0 +1,34 @@
+# Ignore Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Ignore other files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Ignore crash reports
+sysinfo.txt
+
+# Ignore Rider project files
+.idea/
+*.sln.iml
+
+# VSCode settings (optional nếu muốn giữ thì bỏ dòng này)
+.vscode/
